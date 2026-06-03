@@ -4,6 +4,14 @@
   display: grid;
 }
 
+.bold {
+  font-weight: bold;
+}
+
+.normal {
+  font-weight: normal;
+}
+
 .texto {
   font-size: clamp(1rem, 10vw, 2rem);
 }
