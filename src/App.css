@@ -1,4 +1,4 @@
-.contenedor {
+.container {
   height: 100vh;
   place-items: center;
   display: grid;
@@ -12,6 +12,6 @@
   font-weight: normal;
 }
 
-.texto {
+.text {
   font-size: clamp(1rem, 10vw, 2rem);
 }
