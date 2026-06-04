@@ -15,3 +15,17 @@
 .text {
   font-size: clamp(1rem, 10vw, 2rem);
 }
+
+.pencil {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+}
+
+.modal {
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: red;
+}
